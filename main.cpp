@@ -12,7 +12,7 @@
 
 int main() {
         
-    cout <<"Course Title: C867 - SCRIPTING AND PROGRAMMING - APPLICATIONS"<< endl;
+    cout << "Course Title: C867 - SCRIPTING AND PROGRAMMING - APPLICATIONS"<< endl;
     cout << "Programming Language Used: C++ " << endl;
     cout << "Student ID: 011769202" << endl;
     cout << "Student Name: Nicholas Lautande" << endl;
